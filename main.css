@@ -1,1 +1,13 @@
-
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 50px;
+    background-image: url(./img/bg.jpg);
+    color: aquamarine;
+    background-size: cover;
+    box-shadow: rgba(0,0,0,0.8) 0 0 0 10000px inset;
+}
