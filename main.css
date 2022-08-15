@@ -11,3 +11,11 @@ body {
     background-size: cover;
     box-shadow: rgba(0,0,0,0.8) 0 0 0 10000px inset;
 }
+h1 {
+    text-align: center;
+    margin-bottom: 100px;
+}
+.logo {
+    text-align: center;
+    margin-bottom: 50px;
+}
